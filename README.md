@@ -15,6 +15,6 @@ You need `git-lfs` installed. On macOS, you can install like this:
 
 You need `parquet-tools` and `sqlite-utils` installed:
 
-    pipx istall parquet-tools sqlite-utils
+    pipx install parquet-tools sqlite-utils
 
 Then run `./import-data.sh` to create and populate a ~14GB SQLite database.
