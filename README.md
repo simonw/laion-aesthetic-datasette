@@ -10,6 +10,8 @@ A collaboration between [Andy Baio](https://wax.org/) and [Simon Willison](https
 
 ## Some rough notes from the implementation
 
+[Issue #7](https://github.com/simonw/laion-aesthetic-datasette/issues/7) includes step-by-step details on how we built this database.
+
 ### Fetching the data
 
 Run `./fetch-data.sh` to fetch the Parquet files.
