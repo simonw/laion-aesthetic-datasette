@@ -27,4 +27,4 @@ You need `parquet-tools` and `sqlite-utils` installed:
 
     pipx install parquet-tools sqlite-utils
 
-Then run `./import-data.sh` to create and populate a ~14GB SQLite database.
+Then run `./import-data.sh` to create and populate a ~4GB SQLite database.
