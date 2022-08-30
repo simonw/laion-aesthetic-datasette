@@ -1,0 +1,13 @@
+databases:
+  laion-aesthetic-6pls:
+    tables:
+      domain:
+        label_column: domain
+  laion-aesthetic-6pls_2:
+    allow: false
+  data:
+    allow: false
+  plugins:
+    datasette-redirect-to-https:
+      if_headers:
+        x-forwarded-proto: http
