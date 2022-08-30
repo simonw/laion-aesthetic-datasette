@@ -1,3 +1,8 @@
+title: LAION-Aesthetics v2 6+
+about: About this project
+about_url: https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/
+source: improved_aesthetics_6plus
+source_url: https://huggingface.co/datasets/ChristophSchuhmann/improved_aesthetics_6plus
 databases:
   laion-aesthetic-6pls:
     tables:
