@@ -4,7 +4,7 @@ Use Datasette to explore the [improved_aesthetics_6plus](https://huggingface.co/
 
 Browse the data (12m+ images) here: https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images
 
-For background on this project, see [Exploring 12 Million of the Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/).
+For background on this project, see [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/).
 
 A collaboration between [Andy Baio](https://wax.org/) and [Simon Willison](https://simonwillison.net/).
 
