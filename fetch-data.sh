@@ -1,5 +1,5 @@
 #!/bin/bash
-git clone https://huggingface.co/datasets/laion/laion2B-en-aesthetic
-cd laion2B-en-aesthetic
+git clone https://huggingface.co/datasets/ChristophSchuhmann/improved_aesthetics_6plus
+cd improved_aesthetics_6plus
 git lfs fetch
 git lfs checkout
