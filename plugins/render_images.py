@@ -1,6 +1,5 @@
 from datasette import hookimpl
-from markupsafe import escape
-from jinja2 import Markup
+from markupsafe import escape, Markup
 
 TEMPLATE = """
 <a href="{url}" title="{url}">
